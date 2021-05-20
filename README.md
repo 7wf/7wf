@@ -1,6 +1,6 @@
 ##### Writing bad code since 2015.
 
-I will always write bad code until it gets good by default, because I want to be a good software developer.
+I will always write bad code until it gets good by default, because I want to be a good software developer. *(UI, UX, Code)*
 
 ###### Interests
 
