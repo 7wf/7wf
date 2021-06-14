@@ -11,4 +11,4 @@ I will always write bad code until it gets good by default, because I want to be
 
 ###### Contact
 
-- **Discord**: オオカミ#4223
+- **Discord**: オオカミ#2511
